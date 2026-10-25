@@ -29,7 +29,7 @@ Comments are collected through the **YouTube Data API** using the Google API Pyt
 
 The per-video collection limit helps reduce the risk of one video dominating the collected sample. The comments are still a sample from selected videos, not a representative survey of all public opinion.
 
-The notebook uses a YouTube API key stored in Google Colab Secrets under `YT_API_KEY`. Do not publish API keys in the repository.
+The notebook uses a YouTube API key stored in Google Colab Secrets under `YT_API_KEY`. 
 
 ## Workflow
 
